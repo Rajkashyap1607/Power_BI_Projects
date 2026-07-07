@@ -13,12 +13,6 @@ This project is an interactive Power BI dashboard created to analyze Uber trip d
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
-
 ## 📈 Key KPIs
 
 - Total Bookings
